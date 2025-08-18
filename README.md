@@ -51,8 +51,8 @@ The user provides:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📂 Example Usage:
- - Source folder: C:\Users\Ricardo\Documents
- - Replica folder: D:\Backups\Docs
+ - Source folder: C:\Users\Bulma\Documents
+ - Replica folder: D:\Users\Bulma\Backups
  - Interval: 30 seconds
 
 The program keeps the replica folder synchronized with the source, logging all changes in LogsData.txt.
