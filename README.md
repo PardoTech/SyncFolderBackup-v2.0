@@ -10,7 +10,7 @@ A lightweight C# utility that continuously monitors a source folder and keeps a 
 
 [Download Linux](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_linux(x64).rar)
 
-[Download macOS](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_osx(x64).rar)
+[Download macOS](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_mac(x64).rar)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
