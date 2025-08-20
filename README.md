@@ -7,9 +7,9 @@ SyncFolderBackup v2.0
 A lightweight C# utility that continuously monitors a source folder and keeps a replica folder updated. Perfect for quick file backups and folder synchronization.
 
 - [Windows x64](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_win_x64.rar)
-- 
+  
 - [Linux x64](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_linux_x64.rar)
-- 
+  
 - [MacOS x64](https://github.com/PardoTech/SyncFolderBackup-v2.0/raw/main/SyncFolderBackupv2.0_mac_x64.rar)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
